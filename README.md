@@ -48,7 +48,8 @@ Exploring model serving with FastAPI + Docker, and ensuring scalability with asy
 
 <!-- ⚠️ Important: Replace 'Prakhar140303' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Prakhar140303/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Prakhar140303&color=brightgreen" alt="Profile views" />
+
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
