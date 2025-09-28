@@ -32,13 +32,13 @@
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>Building production-ready APIs with FastAPI for seamless backend and AI model integration.
+<div align="center"><p>Building production-ready APIs with Node.js and express.js for seamless backend and AI model integration.
 
 Designing low-level architectures (LLD) for scalable applications, focusing on API gateways, service layers, and data pipelines.
 
 Integrating AI/ML models (NLP, computer vision, recommendation systems) into real-world applications with proper request handling, caching, and response optimization.
 
-Exploring model serving with FastAPI + Docker, and ensuring scalability with async processing and message queues (Celery/RabbitMQ).</p></div>
+Exploring model serving with Node.js + Docker, and ensuring scalability with async processing and message queues (Kafka/RabbitMQ).</p></div>
 
 ## 👀 I'm interested in
 
