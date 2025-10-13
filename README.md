@@ -28,7 +28,7 @@
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>Implementing Redis caching in my e-commerce project BingeShop to optimize performance and reduce database load. The caching layer stores frequently accessed data such as product details, user carts, and order histories, enabling faster response times and improving scalability.</p></div>
+<div align="center"><p>Currently learning Distributed Systems and Microservices Architecture using Node.js, Kafka, and related technologies to build scalable, event-driven backend systems.</p></div>
 
 ## 🌱 I'm currently learning
 
