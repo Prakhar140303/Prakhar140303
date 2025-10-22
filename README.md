@@ -74,6 +74,16 @@ Exploring model serving with Node.js + Docker, and ensuring scalability with asy
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar140303&theme=radical&hide_border=false" />
 </div>
 
+### Open Source Contributions
+- **Hacktoberfest 2025 – Backend Refactor & OAuth Integration**
+  - Refactored backend architecture into the **MVC pattern** for better scalability and maintainability.  
+  - Implemented **Google and GitHub OAuth authentication** in a structured format using Passport.js and Express.  
+  - *Tech:* Node.js, Express.js, MongoDB, OAuth, MVC  
+
+- **Hacktoberfest 2025 – React Feature Implementation**
+  - Implemented **PDF download functionality** using `react-pdf` and added **lazy loading** for performance optimization.  
+  - Improved component structure and user experience in large datasets.  
+  - *Tech:* React.js, React-PDF, Lazy Loading
 ## Achievements
 [![An image of @prakhar140303's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakhar140303)](https://holopin.io/@prakhar140303)
 
