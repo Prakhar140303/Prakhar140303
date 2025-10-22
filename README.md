@@ -74,6 +74,9 @@ Exploring model serving with Node.js + Docker, and ensuring scalability with asy
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar140303&theme=radical&hide_border=false" />
 </div>
 
+## Achievements
+[![An image of @prakhar140303's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakhar140303)](https://holopin.io/@prakhar140303)
+
 ## 💻 Tech Stack
 
 <div align="center">
